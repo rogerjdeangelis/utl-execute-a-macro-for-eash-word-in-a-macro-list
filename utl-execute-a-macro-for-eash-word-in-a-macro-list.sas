@@ -4,6 +4,11 @@ github
 https://tinyurl.com/w595f48
 https://github.com/rogerjdeangelis/utl-execute-a-macro-for-eash-word-in-a-macro-list
 
+
+macros
+https://tinyurl.com/y9nfugth
+https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
+
 SAS forum
 https://tinyurl.com/wpt3fkz
 https://communities.sas.com/t5/SAS-Programming/Run-Macro-automatically-for-each-argument-in-ListValues-macro/m-p/614568
